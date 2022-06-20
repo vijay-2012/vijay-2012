@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working towards a master's degree
 
-- 💬 Ask me about Python, Data Science, DBMS
+- 💬 Ask me about Python, Data Science, Machine Learning/Deep Learning
 - 📫 How to reach me -> vijay99.mano@gmail.com
 
 
