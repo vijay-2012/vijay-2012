@@ -3,9 +3,9 @@
 ## I'm a Learner, Coder and Machine Learning Enthusiast!!
 
 
-- 🔭 I'm currently working towards a master's degree
+- 🔭 I'm a Machine Learning Engineer
 
-- 💬 Ask me about Python, Data Science, Machine Learning/Deep Learning
+- 💬 Ask me about Python, Machine Learning/Deep Learning, Computer Vision
 - 📫 How to reach me -> vijay99.mano@gmail.com
 
 
